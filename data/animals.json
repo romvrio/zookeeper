@@ -162,6 +162,24 @@
         "hungry"
       ],
       "id": "16"
+    },
+    {
+      "name": "csd",
+      "species": "scd",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "dws",
+      "species": "asd",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "18"
     }
   ]
 }
